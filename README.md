@@ -5,4 +5,4 @@
 
 
 
-see "todo.PNG" & "cert.jpg"
+see "todo.PNG"
